@@ -1,0 +1,15 @@
+ul{color:brown}
+body{background-color:black}
+section{color: aliceblue;}
+footer{color: brown;}
+
+h1{color: brown;}
+iframe{border:10px solid brown}
+img{border:10px solid brown}
+body{background-image:url(ayoub.png);}
+li{
+    display:inline
+}
+ul{
+margin-left:500px
+}
